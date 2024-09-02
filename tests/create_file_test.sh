@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ../tests_file
+cd ../tests_file/tests_rename_files
 rm *
 
 touch a
